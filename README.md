@@ -1,2 +1,3 @@
 # helloworld
 helloworld
+print helloworld
